@@ -22,12 +22,12 @@ In order to use CE CourseSite Generator the following prequisites are necessary.
 <br>
 To create a website for your course do the followings:
 <br>
-    Create a directory for your course on the server.
-    Run this command on linux shell:
-        chmod 777 your-course-directory
-    Download install.php and CoursePackage.tar.gz and copy them to your-course-directory.
-    In your web browser go to http://course-website/install.php
-    Setup will install the package and will set configurations.
-    After the installation completed run this command on linux shell:
-       chmod 755 your-course-directory
+    Create a directory for your course on the server.<br>
+    Run this command on linux shell:<br>
+        chmod 777 your-course-directory<br>
+    Download install.php and CoursePackage.tar.gz and copy them to your-course-directory.<br>
+    In your web browser go to http://course-website/install.php<br>
+    Setup will install the package and will set configurations.<br>
+    After the installation completed run this command on linux shell:<br>
+       chmod 755 your-course-directory<br>
 
