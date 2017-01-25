@@ -14,7 +14,7 @@
 In order to use CE CourseSite Generator the following prequisites are necessary.
 
     Apache Web Server (You can also use other web servers but it will reduce security of your website).
-    PHP version 4.3.0 Until 7.0.4 or better installed as an apache module.
+    PHP version 5.2.0 To 7 or better install as an apache module.
     Linux/Unix Server
 
 
